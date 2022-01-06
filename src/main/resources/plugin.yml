@@ -1,0 +1,12 @@
+name: RandomTP
+version: '${project.version}'
+main: wtf.jaamey.rtp.Main
+api-version: 1.17
+load: STARTUP
+authors: [ jaamey ]
+description: RandomTP for Minecraft 1.17.1
+website: wtf.jaamey.wtf
+
+commands:
+  rtp:
+    description: rtp
